@@ -1,4 +1,4 @@
-# Notiz-Manager- index.html
+# Notiz-Manager index.html
 Notiz-Manager/
 ├── index.html
 ├── style.css
