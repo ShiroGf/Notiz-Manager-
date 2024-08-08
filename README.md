@@ -1,7 +1,8 @@
 # Notiz-Manager- index.html
-git add .
-git commit -m "Initial commit"
-git push origin master
+Notiz-Manager/
+├── index.html
+├── style.css
+└── script.js
 <!DOCTYPE html>
 <html lang="de">
 <head>
